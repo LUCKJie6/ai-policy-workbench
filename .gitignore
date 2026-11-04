@@ -1,0 +1,17 @@
+# 本地系统及编辑器文件
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+*.log
+.vscode/
+.idea/
+
+# 本地环境与密钥
+.env
+.env.*
+!.env.example
+node_modules/
+__pycache__/
+*.pyc
